@@ -1,2 +1,2 @@
-# MagnaSistemas_treinamento
-Criação de testes, desenvolvimento de aplicações e programas durante o treinamento de integração magna
+# Java 
+Criação de testes e desenvolvimento de aplicações e programas em Java com intuito de aplicar práticas da metodologia Ágile.
